@@ -1,7 +1,9 @@
-S
+
 
 public class Laj {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         System.out.printf("HEllo");
+        System.out.printf( "Again Hello");
     }
 }
